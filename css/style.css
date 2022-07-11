@@ -1380,7 +1380,7 @@ select:invalid {
 
 /* Menu Hover */
 .nav-link.active{
-    color:#4A154B !important;
+    color:#2aa7df !important;
     font-weight: 600 !important;
 }
 /* Menu Hover end*/
@@ -3191,7 +3191,7 @@ li.setup-process-item:not(:last-child):before {
     line-height: 28px;
     margin-right: 15px;
     color: var(--bs-primary);
-   
+
 }
 .download-btn p{
     line-height: 20px;
@@ -3635,7 +3635,7 @@ li.setup-process-item:not(:last-child):before {
 .logo-color{
     width: 175px;
   }
-  
+
   .float-right{
     flex-grow: inherit !important;
       float: right !important;
